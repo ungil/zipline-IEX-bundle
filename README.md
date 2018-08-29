@@ -4,7 +4,7 @@ Custom bundle to import IEX data into zipline (http://www.zipline.io).
 
 Useful because the standard bundles do not include ETFs.
 
-This file should be in site-packages/zipline/data/bundles/iex.py
+This file should be placed in site-packages/zipline/data/bundles/iex.py
 
 Add the followign code in         ~/.zipline/extension.py
 
